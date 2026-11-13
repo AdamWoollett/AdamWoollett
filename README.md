@@ -1,4 +1,4 @@
-## Hi there 👋
+Aspiring Junior Software Developer with practical experience developing web applications and interactive projects using JavaScript, React.js, HTML, CSS, Python and PHP. Holds AWS Certified Cloud Practitioner and Microsoft Certified: Azure Fundamentals certifications, with knowledge of front-end development, programming fundamentals and cloud technologies. Brings additional professional experience in technical documentation, digital resource management and problem-solving.
 
 <!--
 **AdamWoollett/AdamWoollett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
