@@ -59,9 +59,11 @@ Currently open to full-time Frontend and UI-focused roles.
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| Portfolio Website | Responsive website for a fictional boat tours company. Focused on visual appeal and usability across different devices. | HTML5, CSS3| [Live Demo](https://karve-tours.com/) · [Code](https://github.com/AdamWoollett/Valheim-Yacht-tours-website) |
-| React Web Application | Component-based application with state management, routing, and dynamic rendering. | React, TypeScript, Tailwind | [Live Demo](#) · [Code](#) |
-| Interactive UI Components | Reusable component library demonstrating clean architecture and responsive design. | React, Tailwind, TypeScript | [Live Demo](#) · [Code](#) |
+| Portfolio Website | Responsive website for a fictional boat tours company. Focused on visual appeal and usability across different devices. | HTML, CSS| [Live Demo](https://karve-tours.com/) · [Code](https://github.com/AdamWoollett/Valheim-Yacht-tours-website) |
+| Investment Calculator Application | Developed an interactive investment calculator allowing users to input values and calculate potential investment returns. Implemented dynamic result tables that update as users adjust their inputs. | React, CSS | [Live Demo](#) · [Code](https://github.com/AdamWoollett/Investment-App-created-using-React.js) |
+| Password Generator Application | Built a password generator allowing users to customise password length and choose whether to include numbers and symbols. | React, Vite | [Live Demo](#) · [Code](https://github.com/AdamWoollett/React.js-Password-Generator-Application) |
+| Task List Application | Created an interactive task management application allowing users to add, edit, complete and remove tasks. | JavaScript, HTML, CSS | [Live Demo](#) · [Code](https://github.com/AdamWoollett/JavaScript-Task-list-application) |
+| Mock Banking Application | Created an interactive banking application using JavaScript classes, objects, methods and functions. Implemented functionality allowing users to adjust the balances of three bank accounts. | JavaScript HTML | [Live Demo](#) · [Code](https://github.com/AdamWoollett/Mock-Banking-page-JavaScript-exercise) |
 
 ### Key Achievements
 
