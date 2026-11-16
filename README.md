@@ -3,16 +3,16 @@
   <h3>Frontend Developer | Building clean, performant, and accessible user interfaces</h3>
 
   <p>
-    <a href="mailto:adam.woollett@btinternet.com">
+    <a href="mailto:adam.woollett@btinternet.com" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/adam-m-woollett/">
+    <a href="https://www.linkedin.com/in/adam-m-woollett/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/AdamWoollett">
+    <a href="https://github.com/AdamWoollett" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
     </a>
-    <a href="https://karve-tours.com/">
+    <a href="https://karve-tours.com/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
